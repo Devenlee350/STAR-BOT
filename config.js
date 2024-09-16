@@ -7,16 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['2347045035241', 'EXCEL', true],
+  ['263784562833', 'EXCEL', true],
   [''], 
   [''] 
 ] //Number of owners
 
-//global.pairingNumber = "2347045035241" //put your bot number here
+//global.pairingNumber = "263784562833" //put your bot number here
 
-global.mods = ['2347045035241','2348021779696'] 
-global.prems = ['2347045035241', '2348021779696', '2347045038687']
-global.allowed = ['2347045035241', '2348021779696', '2347045038687']
+global.mods = ['263784562833','263784562833'] 
+global.prems = ['263784562833', '263719765023', '27638883356']
+global.allowed = ['263784562833', '263719765023', '27638883356']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -50,16 +50,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '©STAR-MD-V2'
+global.botname = '𝐍𝐎𝐕𝐀 ᵛ3'
 global.premium = 'true'
-global.packname = '©𝚂𝚃𝙰𝚁-𝙼𝙳' 
-global.author = '@𝙴𝚡𝚌𝚎𝚕' 
+global.packname = '©𝚂𝚃𝚁𝙸𝙺𝙴𝚁𝙱𝙾𝚈' 
+global.author = '@𝚂𝚃𝚁𝙸𝙺𝙴𝚁𝙱𝙾𝚈' 
 global.menuvid = 'https://i.imgur.com/BPQbguA.mp4'
-global.Channel = 'https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X' 
-global.dygp = 'https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X'
-global.fgsc = 'https://github.com/Xcelsama/STAR-MD-V2' 
-global.Channel2 = 'https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X'
-global.Wa = 'https://wa.me/2347045035241'
+global.Channel = 'https://whatsapp.com/channel/0029VafbajGDuMRoRlel7k1p' 
+global.dygp = 'https://whatsapp.com/channel/0029VafbajGDuMRoRlel7k1p'
+global.fgsc = 'https://github.com/Devenlee350/STAR-MD-V2' 
+global.Channel2 = 'https://whatsapp.com/channel/0029VafbajGDuMRoRlel7k1p'
+global.Wa = 'https://wa.me/263784562833'
 global.fglog = 'STAR.jpg' 
 global.thumb = fs.readFileSync('./STAR.jpg')
 global.shizokeys = 'shizo'
